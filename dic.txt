@@ -1,0 +1,7 @@
+{
+    "placeholder": {
+        "word": "words",
+        "wordie": "worddie"
+    },
+    "hm": {}
+}
