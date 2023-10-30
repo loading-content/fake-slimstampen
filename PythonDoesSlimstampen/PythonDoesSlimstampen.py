@@ -5,7 +5,7 @@ import json
 
 points = 0
 
-file_path = 'C:/Users/annem/source/repos/PythonDoesSlimstampen/dic.txt'
+file_path = 'C:/Users/user/source/repos/PythonDoesSlimstampen/dic.txt'
 if os.path.exists(file_path):
     # Open the file and load the dictionary
     with open(file_path, 'r') as f:
